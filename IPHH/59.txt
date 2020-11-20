@@ -1,0 +1,135 @@
+Ignition Hand #4021565695 TBL#22836412 HOLDEM No Limit - 2020-10-25 13:27:51
+Seat 1: UTG ($23.89 in chips)
+Seat 3: UTG+1 ($20.50 in chips)
+Seat 4: Dealer ($50.08 in chips)
+Seat 5: Small Blind ($79.90 in chips)
+Seat 6: Big Blind [ME] ($50 in chips)
+Dealer : Set dealer [4] 
+Small Blind : Small Blind $0.25 
+Big Blind  [ME] : Big blind $0.50 
+UTG : Posts chip $0.50 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [4c 9h] 
+UTG+1 : Card dealt to a spot [Th 8h] 
+Dealer : Card dealt to a spot [5d Tc] 
+Small Blind : Card dealt to a spot [2c Jd] 
+Big Blind  [ME] : Card dealt to a spot [6c Ah] 
+UTG : Checks
+UTG+1 : Folds
+Dealer : Calls $0.50 
+Small Blind : Folds
+Seat re-join
+Big Blind  [ME] : Checks
+*** FLOP *** [4s 6d 9d]
+Big Blind  [ME] : Checks
+UTG : Checks
+Dealer : Checks
+*** TURN *** [4s 6d 9d] [Js]
+Big Blind  [ME] : Checks
+UTG : Checks
+Dealer : Bets $1.50 
+Big Blind  [ME] : Calls $1.50 
+UTG : Raises $8.50 to $8.50
+Dealer : Folds
+Big Blind  [ME] : Folds
+UTG : Return uncalled portion of bet $7 
+UTG : Does not show [4c 9h] (Two pair)
+UTG : Hand result $5.94 
+*** SUMMARY ***
+Total Pot($6.25)
+Board [4s 6d 9d Js ]
+Seat+1: UTG $5.94 [Does not show]  
+Seat+3: UTG+1 Folded before the FLOP
+Seat+4: Dealer Folded on the TURN
+Seat+5: Small Blind Folded before the FLOP
+Seat+6: Big Blind Folded on the TURN
+
+
+Ignition Hand #4021565982 TBL#22836412 HOLDEM No Limit - 2020-10-25 13:29:03
+Seat 1: Big Blind ($27.83 in chips)
+Seat 2: UTG ($83.46 in chips)
+Seat 3: UTG+1 ($20.50 in chips)
+Seat 4: UTG+2 ($48.08 in chips)
+Seat 5: Dealer ($79.65 in chips)
+Seat 6: Small Blind [ME] ($48 in chips)
+Dealer : Set dealer [5] 
+Small Blind  [ME] : Small Blind $0.25 
+Big Blind : Big blind $0.50 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [8d 7c] 
+UTG : Card dealt to a spot [Qh 2c] 
+UTG+1 : Card dealt to a spot [5d 9h] 
+UTG+2 : Card dealt to a spot [Ks Kd] 
+Dealer : Card dealt to a spot [6s Qd] 
+Small Blind  [ME] : Card dealt to a spot [Jd 8h] 
+UTG : Calls $0.50 
+UTG+1 : Folds
+UTG+2 : Raises $1.50 to $1.50
+Dealer : Folds
+Small Blind  [ME] : Folds
+Big Blind : Calls $1 
+UTG : Calls $1 
+*** FLOP *** [9s 4h 5h]
+Big Blind : Checks
+UTG : Checks
+UTG+2 : Bets $4.52 
+Big Blind : Folds
+UTG : Folds
+UTG+2 : Return uncalled portion of bet $4.52 
+UTG+2 : Does not show [Ks Kd] (One pair)
+UTG+2 : Hand result $4.52 
+*** SUMMARY ***
+Total Pot($4.75)
+Board [9s 4h 5h  ]
+Seat+1: Big Blind Folded on the FLOP
+Seat+2: UTG Folded on the FLOP
+Seat+3: UTG+1 Folded before the FLOP
+Seat+4: UTG+2 $4.52 [Does not show]  
+Seat+5: Dealer Folded before the FLOP
+Seat+6: Small Blind Folded before the FLOP
+
+
+Ignition Hand #4021566281 TBL#22836412 HOLDEM No Limit - 2020-10-25 13:30:15
+Seat 1: Small Blind ($26.33 in chips)
+Seat 2: Big Blind ($81.96 in chips)
+Seat 3: UTG ($20.50 in chips)
+Seat 4: UTG+1 ($51.10 in chips)
+Seat 5: UTG+2 ($79.65 in chips)
+Seat 6: Dealer [ME] ($47.75 in chips)
+Dealer  [ME] : Set dealer [6] 
+Small Blind : Small Blind $0.25 
+Big Blind : Big blind $0.50 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [2h 3s] 
+Big Blind : Card dealt to a spot [6c Jc] 
+UTG : Card dealt to a spot [Qh 7d] 
+UTG+1 : Card dealt to a spot [4c 2s] 
+UTG+2 : Card dealt to a spot [4s 8c] 
+Dealer  [ME] : Card dealt to a spot [Qc 9s] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Folds
+Dealer  [ME] : Raises $1.25 to $1.25
+Small Blind : Calls $1 
+Big Blind : Calls $0.75 
+*** FLOP *** [Kh Jh Ad]
+Small Blind : Checks
+Big Blind : Bets $1.50 
+Dealer  [ME] : Folds
+Small Blind : Raises $7.57 to $7.57
+Dealer  [ME] : Seat stand
+Dealer  [ME] : Table leave user
+Big Blind : Folds
+Small Blind : Return uncalled portion of bet $6.07 
+Small Blind : Does not show [2h 3s] (High Card)
+Small Blind : Hand result $6.42 
+*** SUMMARY ***
+Total Pot($6.75)
+Board [Kh Jh Ad  ]
+Seat+1: Small Blind $6.42 [Does not show]  
+Seat+2: Big Blind Folded on the FLOP
+Seat+3: UTG Folded before the FLOP
+Seat+4: UTG+1 Folded before the FLOP
+Seat+5: UTG+2 Folded before the FLOP
+Seat+6: Dealer Folded on the FLOP
+

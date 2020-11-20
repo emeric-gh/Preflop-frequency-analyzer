@@ -1,0 +1,185 @@
+Ignition Hand #3917056516 TBL#21059061 HOLDEM No Limit - 2020-04-06 21:32:55
+Seat 2: UTG+1 ($22.10 in chips)
+Seat 3: UTG+2 ($54.80 in chips)
+Seat 4: UTG+3 ($10.14 in chips)
+Seat 5: UTG+4 ($9.19 in chips)
+Seat 6: Dealer ($21.89 in chips)
+Seat 7: Small Blind ($24.41 in chips)
+Seat 8: Big Blind [ME] ($10 in chips)
+Seat 9: UTG ($17.66 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.05 
+Big Blind  [ME] : Big blind $0.10 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [7c Ah] 
+UTG+2 : Card dealt to a spot [Kc Qh] 
+UTG+3 : Card dealt to a spot [3s Ts] 
+UTG+4 : Card dealt to a spot [7d 5h] 
+Dealer : Card dealt to a spot [2c Kd] 
+Small Blind : Card dealt to a spot [9h 4d] 
+Big Blind  [ME] : Card dealt to a spot [8c Td] 
+UTG : Card dealt to a spot [2h 6c] 
+UTG : Folds
+UTG+1 : Folds
+UTG+2 : Raises $0.20 to $0.20
+UTG+3 : Folds
+UTG+4 : Folds
+Dealer : Calls $0.20 
+Small Blind : Folds
+Big Blind  [ME] : Folds
+*** FLOP *** [Ks 6s 5d]
+UTG+2 : Bets $0.53 
+Dealer : Calls $0.53 
+*** TURN *** [Ks 6s 5d] [2s]
+UTG+2 : Checks
+Dealer : Bets $0.30 
+UTG+2 : Raises $1.37 to $1.37
+Dealer : Raises $2.14 to $2.44
+UTG+2 : Calls $1.07 
+*** RIVER *** [Ks 6s 5d 2s] [Jh]
+UTG+2 : Checks
+Dealer : Checks
+UTG+2 : Showdown [Ks Kc Qh Jh 6s] (One pair)
+Dealer : Showdown [Ks Kd 2s 2c Jh] (Two pair)
+Dealer : Hand result $6.17 
+*** SUMMARY ***
+Total Pot($6.49)
+Board [Ks 6s 5d 2s Jh]
+Seat+2: UTG+1 Folded before the FLOP
+Seat+3: UTG+2 lost with One pair [Kc Qh-Ks Kc Qh Jh 6s]  
+Seat+4: UTG+3 Folded before the FLOP
+Seat+5: UTG+4 Folded before the FLOP
+Seat+6: Dealer $6.17  with Two pair [2c Kd-Ks Kd 2s 2c Jh]  
+Seat+7: Small Blind Folded before the FLOP
+Seat+8: Big Blind Folded before the FLOP
+Seat+9: UTG Folded before the FLOP
+
+
+Ignition Hand #3917057731 TBL#21059061 HOLDEM No Limit - 2020-04-06 21:34:25
+Seat 2: UTG ($22.10 in chips)
+Seat 3: UTG+1 ($51.63 in chips)
+Seat 4: UTG+2 ($10.14 in chips)
+Seat 5: UTG+3 ($9.19 in chips)
+Seat 6: UTG+4 ($24.89 in chips)
+Seat 7: Dealer ($24.36 in chips)
+Seat 8: Small Blind [ME] ($9.90 in chips)
+Seat 9: Big Blind ($17.66 in chips)
+Dealer : Set dealer [7] 
+Small Blind  [ME] : Small Blind $0.05 
+Big Blind : Big blind $0.10 
+*** HOLE CARDS ***
+UTG : Card dealt to a spot [6h 7h] 
+UTG+1 : Card dealt to a spot [Qd 3h] 
+UTG+2 : Card dealt to a spot [3d Qs] 
+UTG+3 : Card dealt to a spot [8c 4c] 
+UTG+4 : Card dealt to a spot [Tc Ac] 
+Dealer : Card dealt to a spot [5d Kc] 
+Small Blind  [ME] : Card dealt to a spot [2d 5h] 
+Big Blind : Card dealt to a spot [2h Ah] 
+UTG : Raises $0.30 to $0.30
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Calls $0.30 
+UTG+4 : Calls $0.30 
+Dealer : Folds
+Small Blind  [ME] : Folds
+Big Blind : Calls $0.20 
+*** FLOP *** [4s 7s Td]
+Big Blind : Checks
+UTG : Bets $0.85 
+UTG+3 : Folds
+UTG+4 : Calls $0.85 
+Big Blind : Folds
+*** TURN *** [4s 7s Td] [As]
+UTG : Checks
+UTG+4 : Bets $1 
+UTG : Calls $1 
+*** RIVER *** [4s 7s Td As] [9c]
+UTG : Checks
+UTG+4 : Bets $1 
+UTG : Calls $1 
+UTG+4 : Showdown [As Ac Td Tc 9c] (Two pair)
+UTG : Mucks [6h 7h] (One pair)
+UTG+4 : Hand result $6.61 
+UTG+3 : Table deposit $1.11 
+*** SUMMARY ***
+Total Pot($6.95)
+Board [4s 7s Td As 9c]
+Seat+2: UTG [Mucked] [6h 7h]  
+Seat+3: UTG+1 Folded before the FLOP
+Seat+4: UTG+2 Folded before the FLOP
+Seat+5: UTG+3 Folded on the FLOP
+Seat+6: UTG+4 $6.61  with Two pair [Tc Ac-As Ac Td Tc 9c]  
+Seat+7: Dealer Folded before the FLOP
+Seat+8: Small Blind Folded before the FLOP
+Seat+9: Big Blind Folded on the FLOP
+
+
+Ignition Hand #3917059073 TBL#21059061 HOLDEM No Limit - 2020-04-06 21:36:07
+Seat 2: Big Blind ($18.95 in chips)
+Seat 3: UTG ($51.63 in chips)
+Seat 4: UTG+1 ($10.14 in chips)
+Seat 5: UTG+2 ($10 in chips)
+Seat 6: UTG+3 ($28.35 in chips)
+Seat 7: UTG+4 ($24.36 in chips)
+Seat 8: Dealer [ME] ($9.85 in chips)
+Seat 9: Small Blind ($17.36 in chips)
+Dealer  [ME] : Set dealer [8] 
+Small Blind : Small Blind $0.05 
+Big Blind : Big blind $0.10 
+*** HOLE CARDS ***
+Big Blind : Card dealt to a spot [Jc Js] 
+UTG : Card dealt to a spot [Kc Ac] 
+UTG+1 : Card dealt to a spot [9h 2s] 
+UTG+2 : Card dealt to a spot [Kd 3c] 
+UTG+3 : Card dealt to a spot [Ah 3d] 
+UTG+4 : Card dealt to a spot [Kh 5d] 
+Dealer  [ME] : Card dealt to a spot [9c 9s] 
+Small Blind : Card dealt to a spot [Qs Qc] 
+UTG : Raises $0.30 to $0.30
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+3 : Calls $0.30 
+UTG+4 : Folds
+Dealer  [ME] : Calls $0.30 
+Small Blind : Calls $0.25 
+Big Blind : Raises $1.70 to $1.80
+UTG : Calls $1.50 
+UTG+3 : Calls $1.50 
+Dealer  [ME] : Calls $1.50 
+Small Blind : Calls $1.50 
+*** FLOP *** [5s 4d 7h]
+Small Blind : Checks
+Big Blind : Bets $3.50 
+UTG : Folds
+UTG+3 : Folds
+UTG+3 : Seat stand
+UTG+3 : Table leave user
+Dealer  [ME] : Calls $3.50 
+Small Blind : Calls $3.50 
+*** TURN *** [5s 4d 7h] [8s]
+Small Blind : Checks
+Big Blind : All-in $13.65 
+Table enter user
+Seat sit down
+Table deposit $3 
+Dealer  [ME] : All-in $4.55 
+Small Blind : Folds
+Big Blind : Return uncalled portion of bet $9.10 
+*** RIVER *** [5s 4d 7h 8s] [Td]
+Big Blind : Showdown [Js Jc Td 8s 7h] (One pair)
+Dealer  [ME] : Showdown [9s 9c Td 8s 7h] (One pair)
+Big Blind : Hand result $27.17 
+Dealer  [ME] : Seat sit out
+*** SUMMARY ***
+Total Pot($28.60)
+Board [5s 4d 7h 8s Td]
+Seat+2: Big Blind $27.17  with One pair [Jc Js-Js Jc Td 8s 7h]  
+Seat+3: UTG Folded on the FLOP
+Seat+4: UTG+1 Folded before the FLOP
+Seat+5: UTG+2 Folded before the FLOP
+Seat+6: UTG+3 Folded on the FLOP
+Seat+7: UTG+4 Folded before the FLOP
+Seat+8: Dealer lost with One pair [9c 9s-9s 9c Td 8s 7h]  
+Seat+9: Small Blind Folded on the TURN
+
