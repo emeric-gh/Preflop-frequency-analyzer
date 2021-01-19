@@ -1,4 +1,15 @@
+import pandas as pd
 
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+
+
+from matplotlib.pyplot import figure
+
+CardValues = ['A','K','Q','J','T','9','8','7','6','5','4','3','2']
+
+CardValuedict = {'A':12,'K':11,'Q':10,'J':9,'T':8,'9':7,'8':6,'7':5,'6':4,'5':3,'4':2,'3':1,'2':0}
 
 def reduceToOnePositions(preflopLines, position):
     #limit Preflop raise hands by position in the table
@@ -23,6 +34,8 @@ def createIndividualCardData(df):
     return df
 
 def createPivot(df, suited = False):
+
+    CardValues = ['A','K','Q','J','T','9','8','7','6','5','4','3','2']
 
     #limit field to suited or unsuited
     df = df[df['suited'] == suited]
@@ -62,6 +75,9 @@ def createPivot(df, suited = False):
     return df_piv
 
 def createHandChartLabels():
+    
+    
+
     FullHandChartLables = np.empty((len(CardValues),len(CardValues)),dtype= 'object')
 
     for i in range(len(CardValues)):
@@ -74,6 +90,16 @@ def createHandChartLabels():
                 FullHandChartLables[i][j] = str(CardValues[i] + CardValues[j] +'s')
     return FullHandChartLables
 
+def set_size(w,h, ax=None):
+    """ w, h: width, height in inches """
+    if not ax: ax=plt.gca()
+    l = ax.figure.subplotpars.left
+    r = ax.figure.subplotpars.right
+    t = ax.figure.subplotpars.top
+    b = ax.figure.subplotpars.bottom
+    figw = float(w)/(r-l)
+    figh = float(h)/(t-b)
+    ax.figure.set_size_inches(figw, figh)
 
 def createHandRangeFig(df, cmap = 'coolwarm', threshold = 0):
     #create the suited hands and off suited, then merge into one figure
@@ -107,3 +133,6 @@ def createHandRangeFig(df, cmap = 'coolwarm', threshold = 0):
         for j in range(len(CardValues)):
             text = ax.text(j, i, FullHandChartLables[i, j],
                            ha="center", va="center", color="k")
+
+
+
